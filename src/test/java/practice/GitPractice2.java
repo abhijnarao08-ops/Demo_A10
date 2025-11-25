@@ -8,5 +8,6 @@ public class GitPractice2
 	public void m2()
 	{
 		System.out.println("Tuesday");
+		System.out.println("Push to branch");
 	}
 }
