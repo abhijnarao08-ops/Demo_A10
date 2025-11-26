@@ -10,5 +10,6 @@ public class GitPractice2
 		System.out.println("Tuesday");
 		System.out.println("Push to branch");
 		System.out.println("Pushing through ATE branch");
+		System.out.println("Pushing through master branch");
 	}
 }
